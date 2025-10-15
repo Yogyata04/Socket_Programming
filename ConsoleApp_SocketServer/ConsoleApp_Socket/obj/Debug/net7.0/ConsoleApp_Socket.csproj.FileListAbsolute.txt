@@ -1,0 +1,14 @@
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\bin\Debug\net7.0\ConsoleApp_Socket.exe
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\bin\Debug\net7.0\ConsoleApp_Socket.deps.json
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\bin\Debug\net7.0\ConsoleApp_Socket.runtimeconfig.json
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\bin\Debug\net7.0\ConsoleApp_Socket.dll
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\bin\Debug\net7.0\ConsoleApp_Socket.pdb
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ConsoleApp_Socket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ConsoleApp_Socket.AssemblyInfoInputs.cache
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ConsoleApp_Socket.AssemblyInfo.cs
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ConsoleApp_Socket.csproj.CoreCompileInputs.cache
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ConsoleApp_Socket.dll
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\refint\ConsoleApp_Socket.dll
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ConsoleApp_Socket.pdb
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ConsoleApp_Socket.genruntimeconfig.cache
+C:\Users\Archana\source\repos\ConsoleApp_Socket\ConsoleApp_Socket\obj\Debug\net7.0\ref\ConsoleApp_Socket.dll
